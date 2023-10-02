@@ -1,4 +1,3 @@
-![](Assets/Images/Goliath_Logo.jpg#Small-Image)
 ## Introduction:
 
 **GaitLocomotionSystem** ia a plugin that is intended to allow designers to create Thread Safe Layered Animation Blueprints with ease. Many functions of this plugin are completely optional, but allow for designers to easily have replicated thread safe variables for most of the necessary requirements for animation. Including an optional Aim Solver in the GaitAnimComponent.
