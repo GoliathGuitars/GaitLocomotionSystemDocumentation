@@ -18,18 +18,28 @@
 >> [GaitAnimComponent]()
 >
 > - An Optional Character Movement Component that uses interface functions to Synchronize Movement Speed Updates.
->>  [GaitLocomotionCMC]()
+>>  [GaitLocomotionCmc]()
 >
 > - An Alternative Optional Character Movement Component that uses GAS Attributes to Synchronize Movement Speed Updates.
 >>  [GaitLocoGasCmc]()
 
 ## Camera Classes
-> -
+> - The Camera Animation Instance for Gait Locomotion System.
 >> [GaitCameraAnimInstance]()
 >
-> -
+> - The Camera Data Asset Class for Gait Locomotion System.
 >> [GaitLoco_CameraData]()
 >
-> -
+> - The Default Camera Modifier Class for Gait Locomotion System.
 >> [GaitLoco_DefaultCameraMod]()
+
+## Helper Function Classes
+> - A Required Attribute Set for the GaitLocoGasCmc.
+>> [GaitAttributeSet]()
+>
+> - An Optional Set of Functions.
+>> [GaitLocoFunctionLibrary]()
+>
+> - A Required Interface for the GLSRotator Animation Notify State.
+>> [GLSRotatorInterface]()
 >
