@@ -1,3 +1,4 @@
+![](Assets/Images/Goliath_Logo.jpg#Small-Image)
 # Gait Locomotion System
 Copyright (C) Goliath Guitars - All Rights Reserved.
 
