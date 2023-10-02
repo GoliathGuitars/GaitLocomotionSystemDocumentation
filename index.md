@@ -17,4 +17,4 @@ Lastly there is an Optional Data Driven, Gameplay Tag, Property Based Player Cam
 ## Marketplace Recommendations (These plugins pair extremely well with this plugin).
 [PluginRecommendations](https://madteapartygames.github.io/the-gonzo-docs/docs/recommends.html)
 
-![](Assets/Images/Goliath_Logo.png)
+![](Assets/Images/Goliath_Logo.jpg)
