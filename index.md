@@ -15,4 +15,4 @@ Lastly there is an Optional Data Driven, Gameplay Tag, Property Based Player Cam
 [GLSDocumenation](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html)
 
 ## Marketplace Plugin Recommendations
-[PluginRecommendations](https://madteapartygames.github.io/the-gonzo-docs/docs/recommends.html)
+[PluginRecommendations](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/PluginRecommendations.md)
