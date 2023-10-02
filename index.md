@@ -12,7 +12,7 @@ Lastly there is an Optional Data Driven, Gameplay Tag, Property Based Player Cam
 [Installation](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Installation.md)
 
 ## Overview of Components and Functions in GLS
-[GLSDocumentation](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html)
+[GLSDocumentation]()
 
 ## Gait Locomotion System Youtube Channel
 [GLSYoutubeTutorials](https://www.youtube.com/@jacksonblack3809)
