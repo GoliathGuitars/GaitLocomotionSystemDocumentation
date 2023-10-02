@@ -4,7 +4,7 @@
 >
 > - In the Content Browser, enable the setting to show plugin-content. If installed to Engine only you need **Show Engine Content** and **Show Plugin Content**. If installed to the Project you will just need **Show Plugin Content**.
 > 
-> ![](../Assets/Images/browser-settings.png#small-image)
+> ![](../Assets/Images/Installation/browser-settings.png#small-image)
 > 
 > - Locate the GaitLocomotionSystem Content in the Content Browser. 
 > - If installed to the engine only, it will be under Engine/Plugins:
