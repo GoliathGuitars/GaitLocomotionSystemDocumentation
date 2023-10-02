@@ -1,35 +1,20 @@
----
-title: Home
-layout: home
----
+## Introduction:
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+**GaitLocomotionSystem** ia a plugin that is intended to allow designers to create Thread Safe Layered Animation Blueprints with ease. Many functions of this plugin are completely optional, but allow for designers to easily have replicated thread safe variables for most of the necessary requirements for animation. Including an optional Aim Solver in the GaitAnimComponent.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+The purpose of this plugin is to have a highly performant tool for animation design, that holds up to larger scale development without bottlenecks in memory, whilst minimizing the animation budget where possible utilizing things like Animation Warping, or Distance Matching.
 
-More specifically, the created site:
+Gait Locomotion System also includes many quality of life features for animation work, including 2 example Character Movement components (One integrated with GAS to allow for easy network synchronized movement updates using GameplayEffects). A Cosine Movement input function is also included to modify input values, preventing some movement hacks, but also making movement rates more accurate for Bipedal rigs.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Lastly there is an Optional Data Driven, Gameplay Tag, Property Based Player Camera Manager Setup that can easily be used to manage Camera States, Post Process, and Interpolation.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Plugin Installation!
+[Installation](https://madteapartygames.github.io/the-gonzo-docs/docs/quickstart.html)
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Overview of Components and Functions in GLS.
+[GLSDocumenation](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html)
 
-To get started with creating a site, simply:
+## Marketplace Recommendations (These plugins pair extremely well with this plugin).
+[PluginRecommendations](https://madteapartygames.github.io/the-gonzo-docs/docs/recommends.html)
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+![](Assets/Images/Goliath_Logo.jpg)
