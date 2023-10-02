@@ -9,7 +9,7 @@ Gait Locomotion System also includes many quality of life features for animation
 Lastly there is an Optional Data Driven, Gameplay Tag, Property Based Player Camera Manager Setup that can easily be used to manage Camera States, Post Process, and Interpolation.
 
 ## Plugin Installation
-[Installation](https://madteapartygames.github.io/the-gonzo-docs/docs/quickstart.html)
+[Installation](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Installation.md)
 
 ## Overview of Components and Functions in GLS
 [GLSDocumentation](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html)
