@@ -11,7 +11,7 @@
 >> [GaitLocoGASAnimInstance]()
 >
 > - A Notify State for the GaitAnimComponent Rotator Function.
->> [ANS_GLSRotator]()
+>> [ANS_GLSRotator](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Animation/ANS_GLSRotator.md)
 
 ## Actor Component Classes
 > - An Actor Component that provides some useful optional functionality.
@@ -41,5 +41,5 @@
 >> [GaitLocoFunctionLibrary](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/HelperFunctionClasses/GaitLocoFunctionLibrary.md)
 >
 > - A Required Interface for the GLSRotator Animation Notify State.
->> [GLSRotatorInterface](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Animation/ANS_GLSRotator.md)
+>> [GLSRotatorInterface](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/HelperFunctionClasses/GLSRotatorInterface.md)
 >
