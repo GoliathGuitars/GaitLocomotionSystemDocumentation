@@ -1,6 +1,10 @@
 ## Installation Steps:
-> - First Install the Plugin using the Epic Launcher, or directly to your Project Plugin Directory.
+> 1. Install the Plugin using the Epic Launcher, or directly to your Project Plugin Directory.
 >> ![](../Assets/Images/Installation/Plugin_Directory.png#small-image)
+>
+> 2. Enable GaitLocomotionSystem under the "Edit->Plugins" in the Unreal Editor, under the Animation Tab.
+> - Restart the Editor once the Plugin has been Enabled.
+>> ![](../Assets/Images/Installation/Enable_Plugin#small-image)
 >
 > - In the Content Browser, enable the setting to show plugin-content. If installed to Engine only you need **Show Engine Content** and **Show Plugin Content**. If installed to the Project you will just need **Show Plugin Content**.
 > 
