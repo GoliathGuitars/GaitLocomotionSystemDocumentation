@@ -12,7 +12,7 @@ Lastly there is an Optional Data Driven, Gameplay Tag, Property Based Player Cam
 [Installation](https://madteapartygames.github.io/the-gonzo-docs/docs/quickstart.html)
 
 ## Overview of Components and Functions in GLS
-[GLSDocumenation](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html)
+[GLSDocumentation](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html)
 
 ## Marketplace Plugin Recommendations
 [PluginRecommendations](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/PluginRecommendations.md)
