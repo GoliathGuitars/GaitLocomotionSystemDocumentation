@@ -6,7 +6,7 @@
 > - Restart the Editor once the Plugin has been Enabled.
 >> ![](../Assets/Images/Installation/Enable_Plugin.png#small-image)
 >
-> - In the Content Browser, enable the setting to show plugin-content. If installed to Engine only you need **Show Engine Content** and **Show Plugin Content**. If installed to the Project you will just need **Show Plugin Content**.
+> 3. In the Content Browser, enable the setting to show plugin-content. If installed to Engine only you need **Show Engine Content** and **Show Plugin Content**. If installed to the Project you will just need **Show Plugin Content**.
 > 
 > ![](../Assets/Images/Installation/browser-settings.png#small-image)
 > 
