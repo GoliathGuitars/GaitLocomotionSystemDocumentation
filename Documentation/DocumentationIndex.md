@@ -41,5 +41,5 @@
 >> [GaitLocoFunctionLibrary](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/HelperFunctionClasses/GaitLocoFunctionLibrary.md)
 >
 > - A Required Interface for the GLSRotator Animation Notify State.
->> [GLSRotatorInterface]()
+>> [GLSRotatorInterface](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Animation/ANS_GLSRotator.md)
 >
