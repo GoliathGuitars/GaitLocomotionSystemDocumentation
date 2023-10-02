@@ -1,3 +1,4 @@
+![](Assets/Images/Goliath_Logo.jpg#Small-Image)
 ## Introduction:
 
 **GaitLocomotionSystem** ia a plugin that is intended to allow designers to create Thread Safe Layered Animation Blueprints with ease. Many functions of this plugin are completely optional, but allow for designers to easily have replicated thread safe variables for most of the necessary requirements for animation. Including an optional Aim Solver in the GaitAnimComponent.
@@ -8,13 +9,11 @@ Gait Locomotion System also includes many quality of life features for animation
 
 Lastly there is an Optional Data Driven, Gameplay Tag, Property Based Player Camera Manager Setup that can easily be used to manage Camera States, Post Process, and Interpolation.
 
-## Plugin Installation!
+## Plugin Installation
 [Installation](https://madteapartygames.github.io/the-gonzo-docs/docs/quickstart.html)
 
-## Overview of Components and Functions in GLS.
+## Overview of Components and Functions in GLS
 [GLSDocumenation](https://madteapartygames.github.io/the-gonzo-docs/docs/deepdive.html)
 
-## Marketplace Recommendations (These plugins pair extremely well with this plugin).
+## Marketplace Plugin Recommendations
 [PluginRecommendations](https://madteapartygames.github.io/the-gonzo-docs/docs/recommends.html)
-
-![](Assets/Images/Goliath_Logo.jpg)
