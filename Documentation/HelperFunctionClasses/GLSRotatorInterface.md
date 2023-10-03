@@ -2,7 +2,7 @@
 
 > - Add the Interface to your Actor.
 >> ![](/Assets/Images/Documentation/HelperFunctionClasses/GLSRotatorInterface/GLSRotatorClassSettings.png#small-image)
->
+---
 > - Override Get Desired Rotation Function, and input your own logic (examples below).
 >> ![](/Assets/Images/Documentation/HelperFunctionClasses/GLSRotatorInterface/GetDesiredRotation.png#small-image)
 >
