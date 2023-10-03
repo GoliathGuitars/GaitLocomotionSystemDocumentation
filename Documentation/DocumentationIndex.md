@@ -25,7 +25,7 @@
 
 ## Camera Classes
 > - The Camera Animation Instance for Gait Locomotion System.
->> [GaitCameraAnimInstance]()
+>> [GaitCameraAnimInstance](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Camera/GaitCameraAnimInstance.md)
 >
 > - The Camera Data Asset Class for Gait Locomotion System.
 >> [GaitLoco_CameraData](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Camera/GaitLoco_CameraData.md)
