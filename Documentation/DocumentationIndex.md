@@ -2,13 +2,13 @@
 
 ## Animation Classes
 > - The Main Animation Instance for Gait Locomotion System.
->> [GaitLocomotionAnimInstance]()
+>> [GaitLocomotionAnimInstance](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Animation/GaitLocomotionAnimInstance.md)
 >
 > - The Animation Layer Instance for Gait Locomotion System. 
->> [GaitLocomotionAnimLayerInstance]()
+>> [GaitLocomotionAnimLayerInstance](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Animation/GaitLocomotionLayerAnimInstance.md)
 >
 > - A GAS Property Mapped Alternative to the Main Animation Instance for Gait Locomotion System.
->> [GaitLocoGASAnimInstance]()
+>> [GaitLocoGASAnimInstance](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Animation/GaitLocoGasAnimInstance.md)
 >
 > - A Notify State for the GaitAnimComponent Rotator Function.
 >> [ANS_GLSRotator](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Animation/ANS_GLSRotator.md)
