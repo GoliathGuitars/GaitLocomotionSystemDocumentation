@@ -18,10 +18,10 @@
 >> [GaitAnimComponent](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/ActorComponentClasses/GaitAnimComponent.md)
 >
 > - An Optional Character Movement Component that uses interface functions to Synchronize Movement Speed Updates.
->>  [GaitLocomotionCmc]()
+>>  [GaitLocomotionCmc](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/ActorComponentClasses/GaitLocomotionCmc.md)
 >
 > - An Alternative Optional Character Movement Component that uses GAS Attributes to Synchronize Movement Speed Updates.
->>  [GaitLocoGasCmc]()
+>>  [GaitLocoGasCmc](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/ActorComponentClasses/GaitLocomotionGasCmc.md)
 
 ## Camera Classes
 > - The Camera Animation Instance for Gait Locomotion System.
