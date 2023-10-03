@@ -14,4 +14,3 @@ Copyright (C) Goliath Guitars - All Rights Reserved.
 > - Most things in this plugin are optional. 
 >> - It is not recommended to build on top of the example project, but you should look at it, because this documentation will only cover Gait Locomotion Classes. 
 >>> - The setup is fairly simple, but may include features you do not want. This plugin is meant as a tool, not a template for building your own Locomotion System.
----
