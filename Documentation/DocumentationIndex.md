@@ -31,7 +31,7 @@
 >> [GaitLoco_CameraData](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Camera/GaitLoco_CameraData.md)
 >
 > - The Default Camera Modifier Class for Gait Locomotion System.
->> [GaitLoco_DefaultCameraMod]()
+>> [GaitLoco_DefaultCameraMod](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Camera/GaitLoco_DefaultCameraMod.md)
 
 ## Helper Function Classes
 > - A Required Attribute Set for the GaitLocoGasCmc.
