@@ -15,7 +15,7 @@
 
 ## Actor Component Classes
 > - An Actor Component that provides some useful optional functionality.
->> [GaitAnimComponent]()
+>> [GaitAnimComponent](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/ActorComponentClasses/GaitAnimComponent.md)
 >
 > - An Optional Character Movement Component that uses interface functions to Synchronize Movement Speed Updates.
 >>  [GaitLocomotionCmc]()
