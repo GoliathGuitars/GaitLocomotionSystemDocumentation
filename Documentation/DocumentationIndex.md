@@ -35,7 +35,7 @@
 
 ## Helper Function Classes
 > - A Required Attribute Set for the GaitLocoGasCmc.
->> [GaitAttributeSet]()
+>> [GaitAttributeSet](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/HelperFunctionClasses/GaitAttributeSet.md)
 >
 > - An Optional Set of Functions.
 >> [GaitLocoFunctionLibrary](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/HelperFunctionClasses/GaitLocoFunctionLibrary.md)
