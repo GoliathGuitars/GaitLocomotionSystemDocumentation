@@ -1,11 +1,11 @@
 ## Gait Locomotion GAS Animation Instance
 >
-#### This is an optional child class of [GaitLocomotionAnimInstance]() to add GAS Property Mapping, allowing for significantly easier state management with Gameplay Abilities.
+#### This is an optional child class of [GaitLocomotionAnimInstance](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Animation/GaitLocomotionAnimInstance.md) to add GAS Property Mapping, allowing for significantly easier state management with Gameplay Abilities.
 >
 > - Within your Gameplay Ability Class you will create your tag, if your Ability System Component has this tag, the boolean in the Anim Instance Property Mapping will be true.
 >> ![](/Assets/Images/Documentation/Animation/GaitLocoGasAnimInstance/PropertyTags.png#small-image)
 >
-> - Although technically optional, for [GaitCameraAnimInstance]() to return true for some variables (Crouch/Sprint/IsRightShoulder), it is necessary to override the Blueprint Thread Safe Update Animation Function.
+> - Although technically optional, for [GaitCameraAnimInstance](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Camera/GaitCameraAnimInstance.md) to return true for some variables (Crouch/Sprint/IsRightShoulder), it is necessary to override the Blueprint Thread Safe Update Animation Function.
 >> ![](/Assets/Images/Documentation/Animation/GaitLocoGasAnimInstance/ThreadSafeOverride.png#small-image)
 >
 > - After that create your property mapping using ability tags, and create booleans to match. Then set the "GaitLocomotion" Variables from those using the Blueprint Thread Safe Update Animation.
