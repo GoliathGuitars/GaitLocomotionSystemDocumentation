@@ -12,7 +12,7 @@
 >
 > - A Notify State for the GaitAnimComponent Rotator Function.
 >> [ANS_GLSRotator](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Animation/ANS_GLSRotator.md)
-
+---
 ## Actor Component Classes
 > - An Actor Component that provides some useful optional functionality.
 >> [GaitAnimComponent](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/ActorComponentClasses/GaitAnimComponent.md)
@@ -22,7 +22,7 @@
 >
 > - An Alternative Optional Character Movement Component that uses GAS Attributes to Synchronize Movement Speed Updates.
 >>  [GaitLocoGasCmc](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/ActorComponentClasses/GaitLocomotionGasCmc.md)
-
+---
 ## Camera Classes
 > - The Camera Animation Instance for Gait Locomotion System.
 >> [GaitCameraAnimInstance](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Camera/GaitCameraAnimInstance.md)
@@ -32,7 +32,7 @@
 >
 > - The Default Camera Modifier Class for Gait Locomotion System.
 >> [GaitLoco_DefaultCameraMod](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Camera/GaitLoco_DefaultCameraMod.md)
-
+---
 ## Helper Function Classes
 > - A Required Attribute Set for the GaitLocoGasCmc.
 >> [GaitAttributeSet](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/HelperFunctionClasses/GaitAttributeSet.md)
