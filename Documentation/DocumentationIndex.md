@@ -28,7 +28,7 @@
 >> [GaitCameraAnimInstance]()
 >
 > - The Camera Data Asset Class for Gait Locomotion System.
->> [GaitLoco_CameraData]()
+>> [GaitLoco_CameraData](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Camera/GaitLoco_CameraData.md)
 >
 > - The Default Camera Modifier Class for Gait Locomotion System.
 >> [GaitLoco_DefaultCameraMod]()
