@@ -6,6 +6,6 @@
 >> - Usually this takes place from near the start of the animation to before the hit frames for example.
 >>>
 >>> ![](/Assets/Images/Documentation/Animation/ANS_GLSRotator/ANS_GLSRotator.png#small-image)
->
+---
 > 2. Modify Degrees per second if required.
 >>> ![](/Assets/Images/Documentation/Animation/ANS_GLSRotator/RotateOwnerClassDefaults.png#small-image)
