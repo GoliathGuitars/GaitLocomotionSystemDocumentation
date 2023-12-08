@@ -12,7 +12,7 @@
 > 4. Add Bpi_CameraInterface.
 >> ![](/Assets/Images/Documentation/Camera/GaitCameraAnimInstance/AddInterface.png#small-image)
 ---
-> 5. Override Interface Function, Create Data Asset Variable, and Set to Default (If no Data Asset has been created see [GaitLoco_CameraData]() and return to this step after.
+> 5. Override Interface Function, Create Data Asset Variable, and Set to Default (If no Data Asset has been created see [GaitLoco_CameraData](https://github.com/GoliathGuitars/GaitLocomotionSystemDocumentation/blob/main/Documentation/Camera/GaitLoco_CameraData.md) and return to this step after.
 >> ![](/Assets/Images/Documentation/Camera/GaitCameraAnimInstance/OverrideAndSet.png#small-image)
 ---
 > 6. In the Anim Graph, Get Camera Data.
