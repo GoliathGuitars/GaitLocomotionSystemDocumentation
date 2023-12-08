@@ -14,7 +14,20 @@ IMPORTANT: PLEASE READ THIS END-USER LICENSE AGREEMENT ("EULA") CAREFULLY BEFORE
 
 2.1 Subject to the terms and conditions of this EULA, the Plugin's developer ("Developer") grants You a non-exclusive, non-transferable, limited license to use the plugin for commercial applications.
 
-2.2 This grants you a perpetual license limited to the last update that your subscription paid for. If your Patreon subscription is active, you may continue to use the Plugin as specified in this EULA. If your Patreon subscription is cancelled or expires, your license to use the Plugin will be suspended, and you will no longer have access to future updates, support, or any new features introduced by the developer.
+2.2 This grants you a perpetual license limited to the last update that your subscription paid for. If your Patreon subscription is active, you may continue to use the Plugin as specified in this EULA. If your Patreon subscription is canceled or expires, your license to use the Plugin will be suspended, and you will no longer have access to future updates, support, or any new features introduced by the developer.
+
+2.3 Other Restrictions on Your Use of Licensed Content
+a. Non-Compatible Licenses
+You may not, and may not permit others to, combine, Distribute, or otherwise use Licensed Content with any code or other content which is covered by a license that would directly or indirectly require that all or part of any Licensed Content be governed under any terms other than those of this Agreement (those licenses, the “Non-Compatible Licenses”). This means, for example, that you may not combine Licensed Content with code or content that is licensed under any of the following licenses: GNU General Public License (GPL), Lesser GPL (LGPL) (unless you are merely dynamically linking a shared library), or Creative Commons Attribution-ShareAlike License.
+b. General Restrictions
+You may not:
+i. attempt to reverse engineer, decompile, translate, disassemble, or derive source code from Licensed Content;
+ii. sell, rent, lease, or transfer Licensed Content on a “stand-alone basis”.
+iii. use Licensed Content in violation of applicable law;
+iv. use Licensed Content in any manner which violates the rights of a third party;
+v. remove, disable, circumvent, or modify any proprietary notice or label included in Licensed Content;
+vi. except where explicitly allowed by this Agreement, collect, aggregate, mine, scrape, or otherwise use any Licensed Content for the purposes of publishing, selling, distributing or otherwise making the content available to others to use, download or copy;
+vii. collect, aggregate, mine, scrape or otherwise use NoAI Content (i) in datasets utilized by Generative AI Programs; (ii) in the development of Generative AI Programs; or (iii) as inputs to Generative AI Programs.
 
 3. Ownership and Intellectual Property
 
@@ -32,11 +45,11 @@ IMPORTANT: PLEASE READ THIS END-USER LICENSE AGREEMENT ("EULA") CAREFULLY BEFORE
 
 5.1 While your Patreon subscription is active, You will be entitled to receive updates and support for the Plugin as provided by the Developer. Updates may include bug fixes, improvements, and new features at the Developer's discretion.
 
-5.2 In the event that your Patreon subscription is cancelled or expires, You will no longer be entitled to receive updates, support, or any new features introduced by the Developer. Your access to these services will be suspended immediately.
+5.2 In the event that your Patreon subscription is canceled or expires, You will no longer be entitled to receive updates, support, or any new features introduced by the Developer. Your access to these services will be suspended immediately.
 
 6. Termination
 
-6.1 This EULA is effective until terminated. You may terminate this EULA by discontinuing your use of the Plugin and cancelling your Patreon subscription.
+6.1 This EULA is effective until terminated. You may terminate this EULA by discontinuing your use of the Plugin and canceling your Patreon subscription.
 
 6.2 The Developer reserves the right to terminate this EULA, suspend your access to the Plugin, or revoke your subscription if You violate any terms or conditions of this EULA or Patreon's terms and conditions.
 
