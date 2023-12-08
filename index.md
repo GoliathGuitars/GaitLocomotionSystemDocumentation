@@ -9,13 +9,13 @@ Gait Locomotion System also includes many quality of life features for animation
 Lastly there is an Optional Data Driven, Gameplay Tag, Property Based Player Camera Manager Setup that can easily be used to manage Camera States, Post Process, and Interpolation.
 
 ## Plugin Installation
-[Installation](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/Installation.md)
+[Installation](https://github.com/GoliathGuitars/GaitLocomotionSystemDocumentation/blob/main/Documentation/Installation.md)
 
 ## Overview of Components and Functions in GLS
-[Documentation Index](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/DocumentationIndex.md)
+[Documentation Index](https://github.com/GoliathGuitars/GaitLocomotionSystemDocumentation/blob/main/Documentation/DocumentationIndex.md)
 
 ## Gait Locomotion System Youtube Channel
 [Youtube Tutorials](https://www.youtube.com/@jacksonblack3809)
 
 ## Marketplace Plugin Recommendations
-[Plugin Recommendations](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/Documentation/PluginRecommendations.md)
+[Plugin Recommendations](https://github.com/GoliathGuitars/GaitLocomotionSystemDocumentation/blob/main/Documentation/PluginRecommendations.md)
