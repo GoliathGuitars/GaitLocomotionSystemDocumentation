@@ -8,7 +8,7 @@ Copyright (C) Goliath Guitars - All Rights Reserved.
 > A Lightweight Agnostic Tool for Animation Design. Designed to be Thread Safe. Utilizing Animation Layers, Inertial Blending, Animation Warping, Distance Matching, and Gameplay Ability System.
 ---
 ### **Quick Start:**
-> 1. READ THE DOCUMENTATION [Index](https://github.com/GoliathGuitars/GaitLocomotionSystem/blob/main/index.md) - for installation instructions, an overview of each component of this plugin, and examples on how they can be used.
+> 1. READ THE DOCUMENTATION [Index](https://github.com/GoliathGuitars/GaitLocomotionSystemDocumentation/blob/main/index.md) - for installation instructions, an overview of each component of this plugin, and examples on how they can be used.
 ---
 ### **Important Information:**
 > - Most things in this plugin are optional. 
